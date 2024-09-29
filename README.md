@@ -1,2 +1,2 @@
 # Proba
-Ovo je promjena u README-ju
+Ovo je promjena u README-j
